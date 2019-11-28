@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="EnterWeight">Enter Weight :</string>
+    <string name="EnterHeight">Enter Height :</string>
+    <string name="Weight">Weight in KG</string>
+    <string name="Height">Height in meters</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Reset">Reset</string>
+    <string name="status">Status</string>
+    <string name="developer">Developed by Lim Yong Yi</string>
+</resources>
